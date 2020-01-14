@@ -28,4 +28,4 @@ is an Http RESTful api that will response with JSON objects.
 Tests are written to verify that the api endpoints are functioning as expected, 
 they are written using Mocha framework and Chai assertion library
 
-* npm run test
+* `npm run test`
