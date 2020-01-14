@@ -14,7 +14,7 @@ is an Http RESTful api that will response with JSON objects.
 
 - NodeJS v10.7.0+ (https://nodejs.org)
 - MongoDB 4.1.x (https://mongodb.com)
-  - If using Docker, run `docker run --name krs-mongo -p 27017:27017 -d mongo:4.1-xenial`
+  - If using Docker, run `docker run --name treez-mongo -p 27017:27017 -d mongo:4.1-xenial`
   
 ### Downloading the dependencies (node modules)
 1.  Clone the repo
